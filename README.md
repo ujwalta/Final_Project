@@ -8,3 +8,6 @@ Findings: Budget-revenue correlation, top-grossing films
 Features: Yearly trends, outlier detection
 
 ### 📊 [Books_scraping](https://github.com/ujwalta/Books_scraping)
+Tools: Python, Requests, BeautifulSoup, Pandas
+Functionality: Scrapes book titles, prices, availability across multiple pages
+Output: Saves extracted data to CSV file for analysis
