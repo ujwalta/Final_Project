@@ -20,3 +20,6 @@ Output: Saves extracted data to CSV file for analysis
 
 
 ### 📊 [Instagram_visists_clustering](https://github.com/ujwalta/Instagram_visists_clustering)
+### 📊 [Support-vector-machine-SVM-](https://github.com/ujwalta/Support-vector-machine-SVM-)
+
+
