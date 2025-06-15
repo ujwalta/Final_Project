@@ -17,3 +17,6 @@ Functionality: Scrapes book titles, prices, availability across multiple pages
 Output: Saves extracted data to CSV file for analysis
 
 ### 📊 [Amazon-alexa---Sentiment-Analysis](https://github.com/ujwalta/Amazon-alexa---Sentiment-Analysis)
+
+
+### 📊 [Instagram_visists_clustering](https://github.com/ujwalta/Instagram_visists_clustering)
