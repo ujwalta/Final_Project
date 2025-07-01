@@ -59,3 +59,6 @@ Functionality: Predicts yearly customer spending based on app/website usage usin
 Output: Interactive prediction interface, model evaluation plots (residuals, QQ plot), and real-time predictions based on user input features
 
 
+📬 Connect with Me
+https://www.instagram.com/ujwaltakhanal/
+https://www.facebook.com/ujwaltakhanal1
