@@ -51,4 +51,11 @@ Functionality: Interactive dashboard for filtering, analyzing, and visualizing S
 
 Output: Visual insights by region, category, and time; exportable CSV downloads for filtered and summarized data.
 
+### 📊 [Yearly_amount_spend_prediction](https://github.com/ujwalta/Yearly_amount_spend_prediction)
+Tools: Python, Streamlit, Pandas, Seaborn, Scikit-learn
+
+Functionality: Predicts yearly customer spending based on app/website usage using a trained linear regression model; provides detailed evaluation metrics and visual diagnostics.
+
+Output: Interactive prediction interface, model evaluation plots (residuals, QQ plot), and real-time predictions based on user input features
+
 
